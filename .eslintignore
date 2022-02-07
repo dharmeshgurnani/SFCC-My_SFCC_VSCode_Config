@@ -1,0 +1,10 @@
+bin/
+test/
+static/
+node_modules
+codecept.conf.js
+webpack.config.js
+cartridges/modules
+cartridges/app_storefront_base
+cartridges/bm_app_storefront_base
+cartridges/bc_job_components

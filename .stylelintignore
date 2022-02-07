@@ -1,0 +1,5 @@
+static/
+node_modules
+cartridges/sg_storefront
+cartridges/app_storefront_base
+cartridges/bm_app_storefront_base
